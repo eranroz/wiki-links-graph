@@ -27,6 +27,7 @@
     <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
+        <li><a href="https://github.com/eranroz/wiki-links-graph">Source</a></li>
         <li><a href="#">About</a></li>
         </ul>
     </div>
@@ -36,7 +37,7 @@
 <div class="starter-template" style="padding:40px 15px; text-align:center;">
 <h1>Wikipedia connected components!</h1>
 <p class="lead">
-This page shows a report generated based on dumps of the connected components in Wikipedia links graph! You can use it to find groups of orphan pages.
+This page shows a report of connected components in Wikipedia links graph. The report is generated based on dumps. You can use it to find groups of orphan pages.
 </p>
 <table border="1" class="table table-hover table-striped">
 <thead>
