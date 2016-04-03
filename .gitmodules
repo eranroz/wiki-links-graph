@@ -1,0 +1,3 @@
+[submodule "mysqldump-to-csv"]
+	path = mysqldump-to-csv
+	url = https://github.com/jamesmishra/mysqldump-to-csv/
